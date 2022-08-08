@@ -1,18 +1,29 @@
-// You are given an array:
-// var fruits = ['Apple', 'Banana', 'Orange'];
-// a) Find the index of ‘Banana’ and replace ‘Banana’ with ‘Mango’.
-// b) Remove ‘Orange’ and add ‘Watermelon’.
+// Check the variable decralations. See if you can find the problems?
 
-var fruits = ["Apple", "Banana", "Orange"];
+// Var price = 33
+// var is case sensitive.
+var price = 33;
 
-var bananaIndex = fruits.indexOf("Banana");
-console.log("Index of Banana:", bananaIndex);
+// var name - Shabana
+// used (-) instead of (=) , always bind strings with single or double quotes.
+var name = "Shabana";
 
-fruits[1] = "Mango";
-console.log("Updated Array:", fruits);
+// var boxName = ‘Cocola;
+// Need to use quotes at the beginning and end of a string.
+var boxName = 'Cocola';
 
-fruits.pop();
-console.log("Updated Array:", fruits);
+// var 88_price = 34;
+// variable name cannot start with a number.
+var _price = 34;
 
-fruits.push("Watermelon");
-console.log("Updated Array:", fruits);
+// var enum = -1;
+// variable names cannot be reserved words. (enum) is a reserved word.
+var enumm = -1;
+
+// var _$box’78 = ‘Monika’;
+//variable name cannot contain special characters other than _ and $, (') is a special character.
+var $box78 = 'Monika';
+
+// var home-address = “kochu khet”;
+//variable name cannot contain special characters other than _ and $, (-) is a special character.
+var homeaddress = "kochu khet";

@@ -1,15 +1,19 @@
-// You are given a triangle with the sides 9, 8, 9. Write a program to check whether a triangle is Equilateral or Isosceles or not using if-else. (Equilateral => => three sides are equal, Isosceles => two sides are equal)
+// You are given three numbers 13, 79, and 45. Write a program that will print the largest number using if-else.
 
-var side1 = 9;
-var side2 = 8;
-var side3 = 9;
+// Declaring the variables
+var num1 = 1503;
+var num2 = 719;
+var num3 = 4500;
 
-if (side1 === side2 && side2 === side3 && side3 === side1) {
-    console.log("The triangle is Equilateral!");
+if (num1 > num2 && num1 > num3) {
+    // if number 1 is greater than number 2 and number 3
+    console.log("Number 1 is the largest", num1);
 }
-else if (side1 === side2 || side2 === side3 || side3 === side1) {
-    console.log("The triangle is Isosceles!");
+else if (num2 > num3) {
+    // if number 2 is greater than number 3 and number 1
+    console.log("Number 2 is the largest", num2);
 }
 else {
-    console.log("The triangle is not Equilateral nor Isosceles!");
+    // if number 3 is greater than number 1 and number 2
+    console.log("Number 3 is the largest", num3);
 }

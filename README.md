@@ -46,3 +46,17 @@ Those who got marks equal to or more than 80 and less than 90, their grade is A,
 Those who got marks equal to or more than 90, their grade is A+.
 
 #11 You are leaving for school in a hurry, but while crossing the road you saw the signal is red. If you try to cross the road at this time it will be dangerous. If you see the yellow signal you should slow down. and if the signal is green then you should go. Now write a code where signal will be a variable and the value can be red, yellow or green and what the output should do based on different signal.
+
+#12 Task list for everyday:
+Unlock module at 8 pm,
+Watch the videos and practice,
+Take notes while watching videos,
+After finishing the module practice it again,
+If you dont understand something join support session.
+Now use a for loop 10 times on the tasks and show output.
+
+13# Now use a while loop 10 times on the tasks and show output. (Task list in problem 12)
+
+14# Now solve the same problem with a reverse while loop (decremental). (Task list in problem 12)
+
+15# Now solve the same problem with a reverse for loop (decremental). (Task list in problem 12)

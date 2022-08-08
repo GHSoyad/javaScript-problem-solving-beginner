@@ -60,3 +60,15 @@ Now use a for loop 10 times on the tasks and show output.
 14# Now solve the same problem with a reverse while loop (decremental). (Task list in problem 12)
 
 15# Now solve the same problem with a reverse for loop (decremental). (Task list in problem 12)
+
+16# If you have more than $80000 you will buy a macbook, if you have more than $60000 you will buy a gaming laptop, if you have more than $40000 you will buy a lenovo yoga, if you have more than more than $20000 you will buy a used laptop, else you will use phone.
+
+17# "Aske amar mon bhalo nei" show its output 39 times.
+
+18# How does while loop work?
+
+19# Write a code that shows all the numbers from 58 to 98.
+
+20# Write a code that shows all the even numbers between 412 and 456.
+
+21# Write a code that shows all the odd numbers between 581 and 623.

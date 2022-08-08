@@ -25,4 +25,14 @@ Write a program to find your and your friends’ grades using if-else.
 
 #7 You are given three numbers 13, 79, and 45. Write a program that will print the largest number using if-else.
 
-#8 You are given a triangle with the sides 9, 8, 9. Write a program to check whether a triangle is Isosceles or not using if-else. (Isosceles => two sides are equal)
+#8  You are given a triangle with the sides 9, 8, 9. Write a program to check whether a triangle is Equilateral or Isosceles or not using if-else. (Equilateral => => three sides are equal, Isosceles => two sides are equal)
+
+#9 You placed first on your final exam. You dont know the grades of your friends Aliya, Daliya, Saliya, Maliya, Liliya, Jaliya. However you know their marks Aliya got 95, Daliya got 66, Saliya got 80, Maliya got 59, Liliya got 47, and Jaliya got 77. Write a JS code to find out their grades. (Use switch statement)
+Use the grading chart
+Those who got marks under 50, their grade is F,
+Those who got marks equal to or more than 50 and less than 60, their grade is D,
+Those who got marks equal to or more than 60 and less than 70, their grade is C,
+Those who got marks equal to or more than 70 and less than 80, their grade is B,
+Those who got marks equal to or more than 80 and less than 90, their grade is A,
+Those who got marks equal to or more than 90, their grade is A+.
+

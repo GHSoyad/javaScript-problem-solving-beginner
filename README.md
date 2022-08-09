@@ -2,15 +2,15 @@
 Problem solving with JavaScript - Beginner level
 #
 
-#1 Harry’s mom gave him money (1000) and asked him to buy some oranges (1kg = 300) and apples (1kg = 400). Write a program to help Harry calculate how much money the shopkeeper will return.
+#01 Harry’s mom gave him money (1000) and asked him to buy some oranges (1kg = 300) and apples (1kg = 400). Write a program to help Harry calculate how much money the shopkeeper will return.
 
-#2 Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics, and Bangla of a student. (Assume marks for each subjects)
+#02 Write a program to calculate the average marks of Mathematics, Biology, Chemistry, Physics, and Bangla of a student. (Assume marks for each subjects)
 
-#3 John’s teacher gave him two variables. Each variable contains a string. John’s teacher asked him to combine these two strings and print them in one line. Help John write the program. (Assume two senteces as strings)
+#03 John’s teacher gave him two variables. Each variable contains a string. John’s teacher asked him to combine these two strings and print them in one line. Help John write the program. (Assume two senteces as strings)
 
-#4 Sarah’s mother is teaching her mathematics. She gave Sarah a number and asked her what the remainder would be if she divided the number by 5. Help Sarah write the program. (Assume the number)
+#04 Sarah’s mother is teaching her mathematics. She gave Sarah a number and asked her what the remainder would be if she divided the number by 5. Help Sarah write the program. (Assume the number)
 
-#5 Check the variable decralations. See if you can find the problems?
+#05 Check the variable decralations. See if you can find the problems?
 ● Var price = 33
 ● var name - Shabana
 ● var boxName = ‘Cocola;
@@ -19,12 +19,12 @@ Problem solving with JavaScript - Beginner level
 ● var _$box’78 = ‘Monika’;
 ● var home-address = “kochu khet”;
 
-#6 You are given an array:
+#06 You are given an array:
 var fruits = ['Apple', 'Banana', 'Orange'];
 a) Find the index of ‘Banana’ and replace ‘Banana’ with ‘Mango’.
 b) Remove ‘Orange’ and add ‘Watermelon’.
 
-#7 You and your friends Tom, Jane, Peter and John got their final exam results. Your total score is 85, Tom’s total score is 66, Jane’s total score is 95, Peter’s total score is 56 and John’s total score is 40.
+#07 You and your friends Tom, Jane, Peter and John got their final exam results. Your total score is 85, Tom’s total score is 66, Jane’s total score is 95, Peter’s total score is 56 and John’s total score is 40.
 The grading chart is
 ● 80 or above A grade,
 ● 60 or above B grade,
@@ -33,9 +33,9 @@ The grading chart is
 ● 39 or less => F grade.
 Write a program to find your and your friends’ grades using if-else.
 
-#8 You are given three numbers 13, 79, and 45. Write a program that will print the largest number using if-else.
+#08 You are given three numbers 13, 79, and 45. Write a program that will print the largest number using if-else.
 
-#9  You are given a triangle with the sides 9, 8, 9. Write a program to check whether a triangle is Equilateral or Isosceles or not using if-else. (Equilateral => => three sides are equal, Isosceles => two sides are equal)
+#09  You are given a triangle with the sides 9, 8, 9. Write a program to check whether a triangle is Equilateral or Isosceles or not using if-else. (Equilateral => => three sides are equal, Isosceles => two sides are equal)
 
 #10 You placed first on your final exam. You dont know the grades of your friends Aliya, Daliya, Saliya, Maliya, Liliya, Jaliya. However you know their marks Aliya got 95, Daliya got 66, Saliya got 80, Maliya got 59, Liliya got 47, and Jaliya got 77. Write a JS code to find out their grades. (Use switch statement)
 Use the grading chart

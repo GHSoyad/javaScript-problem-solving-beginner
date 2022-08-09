@@ -133,3 +133,23 @@ Now use a for loop 10 times on the tasks and show output.
 #49 Write a function and take an array as a parameter. Find the average of all the elements of that array and return this average.
 
 #50 Write a function which takes the height and width of a rectangle as parameters. Find out the area of that rectangle and print the result.
+
+#51 Write a code to find the smallest number in an array.
+
+#52 Write a code to find the smallest number between 3 numbers.
+
+#53 Write a function. The function will take an array as input parameter. The array will contain some numbers. Now you have to find the average of all these numbers and return the average from the function.
+
+#54 Write a function which takes the height and width of a rectangle as parameters. Find out the area of that rectangle and print the result.
+
+#55 Write a function to find the second largest element in an array.
+
+#56 Write a function that takes 3 parametes, these parameters will be the the 3 sides of a triangle. Now find the area of the triangle and return from the function.
+
+#57 Write a function to check if a number is prime number or not.
+
+#58 Write functions to add, subtract, multiply, divide and find remainder of two given numbers. Take 2 number type variables and store their result in another variable.
+
+#59 Can you comapre between two variables? Write functions to check if two numbers are equal, not equal, greater, less, greater than or equal and less than or equal. Declare two number variables and compare them.
+
+#60 If you are asked to fulfill two conditions and you have to fulfill both of them can you check it? Similarly can you fulfill either one of the conditions? Write a code to to check it if you can. (Use && or || operators)

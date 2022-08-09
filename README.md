@@ -153,3 +153,32 @@ Now use a for loop 10 times on the tasks and show output.
 #59 Can you comapre between two variables? Write functions to check if two numbers are equal, not equal, greater, less, greater than or equal and less than or equal. Declare two number variables and compare them.
 
 #60 If you are asked to fulfill two conditions and you have to fulfill both of them can you check it? Similarly can you fulfill either one of the conditions? Write a code to to check it if you can. (Use && or || operators)
+
+#61 If you fulfill a condition, what will you do? If the conditions are not met, you will do something else. Write the code by using if-else to do it.
+
+#62 Write a while loop to show the odd numbers between 7 and 19.
+
+#63 Declare an array. Find how many elements are inside the array. Change the fourth element of the array. Add two elements of the array. And remove one element from the array.
+
+#64 Write a for loop to show all the elements of an array. Use regular for loop or for of loop.
+
+#65 Write a code to show all the numbers greater than 80 in an array.
+
+#66 Write a code to multiply 3 numbers and return the result as output.
+
+#67 Declare an object. Object will have 3 properties. And change a property of the object.
+
+#68 Write a function called feetToInch(). This function input it in feet and return inch.
+
+#69 Write a function called centimeterToMeter(). This function input it in centimeter and return meter.
+
+#70 Write a function called paperRequirements. The function will take 3 parameters as input. The first parameter will be how many copies of the first book you want to print, the second parameter will be for copies of the second book, and the third parameter will be for copies of the third book.
+The requirement for each book is:
+First book needs 100 pages to print,
+Second book needs 200 pages to print,
+Third book needs 300 pages to print.
+Call the paperRequirements function and input 3 parameters of books that need to be printed, and return the number of pages needed to print all the books.
+
+#71 Write a function called bestFriend(). The function will take an array as input parameter. The array will have a list of your friends name. Return the longest friend name.
+
+#72 A array has some positive and negative numbers in it. Your task is to check the numbers one by one. You need to show all the positive numbers in a new array, however the loop should stop afte you encounter the negative number. You need to return all the positive numbers until the loop stops.

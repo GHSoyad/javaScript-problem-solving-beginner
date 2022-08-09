@@ -72,3 +72,23 @@ Now use a for loop 10 times on the tasks and show output.
 20# Write a code that shows all the even numbers between 412 and 456.
 
 21# Write a code that shows all the odd numbers between 581 and 623.
+
+22# Make an array of the things you have learned so far. Then use a for loop to show each array elements as output.
+
+23# Make an array with the list of phone models you have used so far. Then use a while loop to show each array elements one by one as output.
+
+24# Run a for loop from 30 to 86. The loop will break when it reaches 44.
+
+25# Make an array of all the books you have. Now write a code that will skip all the books that cost more than $200. Only the books under $200 should be shown as output.
+
+26# Write a function called foo() which prints “foo” and a function called bar() which prints “bar”. Call function bar() in the foo() function after printing. What will be the output? Now call the foo() to see the output.
+
+27# Write a function called make_avg() which will take an three integers and return the average of those values.
+
+28# Challenging: Write a function called make_avg() which will take an array of integers and the size of that array and return the average of those values.
+
+29# Write a function called odd_even() which takes an integer value and tells whether this value is even or odd. You need to do it in 4 ways:
+● Has return + Has parameter
+● No return + Has parameter
+
+30# You are in a hurry to go to your school on time. But when you are crossing the road, the traffic signal is red coloured. In this situation, if you try to cross the road, you may be in danger.If you notice a yellow coloured traffic signal, you should stop. If you notice a green coloured traffic signal, you should cross the road. So write a JS code, where there is a variable called signal. Its value can be green, yellow or red & we will get different activities as output depending on the variable. So, hurry up.

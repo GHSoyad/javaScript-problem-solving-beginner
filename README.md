@@ -1,6 +1,6 @@
 # javaScript-problem-solving-beginner
 Problem solving with JavaScript - Beginner level
-# Problems Reference: https://drive.google.com/file/d/1E_TZp8wghlicXjbq1ETeikhkteC0eRnP/view?fbclid=IwAR1rTUAuooo-34g2QdbBGwSWnb5JJZvxIncfcNV4LzW73n9R0l9Qfrv-hcA
+#
 
 #1 Harry’s mom gave him money (1000) and asked him to buy some oranges (1kg = 300) and apples (1kg = 400). Write a program to help Harry calculate how much money the shopkeeper will return.
 
@@ -113,3 +113,23 @@ Now use a for loop 10 times on the tasks and show output.
 #39 Check if your age is odd or even with a function. If you input a number as parameter it will return true if the number is even else it will return false if the number is odd.
 
 #40 Write a function that will take hour as the input parameter and will convert it into seconds and will return the result in seconds.
+
+#41 Write a loop that shows all the numbers from 1 to 100.
+
+#42 Write a code to show all the odd numbers between 50 and 80.
+
+#43 Write a function that can add 3 given numbers.
+
+#44 Write a function that takes celsius as input parameter and returns fahrenheit as output.
+
+#45 Now do problem 44 in reverse. Take fahrenheit as input parameter and return celsius as output.
+
+#46 Someone tells you their marks out of 100. Write a function which will return what their grade is based on their mark.
+
+#47 Write a code to calculate interest. (Simple interest)
+
+#48 Suppose, you have an array with 8 elements. Find the smallest element of that array. Now for the previous array, try to find the second largest element.
+
+#49 Write a function and take an array as a parameter. Find the average of all the elements of that array and return this average.
+
+#50 Write a function which takes the height and width of a rectangle as parameters. Find out the area of that rectangle and print the result.
